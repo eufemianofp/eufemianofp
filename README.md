@@ -2,7 +2,7 @@
 
 # Hi there, I’m Eufemiano! 👋
 
-* I'm an experienced data scientist with background in statistics and engineering.
+* I'm an experienced data scientist with a background in statistics and engineering.
 * I'm passionate about applying statistical modelling, machine learning and design of experiments to improve the efficacy and efficiency of systems.
 * I'm currently learning about:
   - Causality
