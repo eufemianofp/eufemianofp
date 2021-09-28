@@ -8,7 +8,7 @@
   - Causality
   - Python best practices
   - Docker
-* I'm excited to collaborate on projects that leverage statistical inference/modelling to better understand a problem, beyond the usage of a ML solution that
+* I'm excited to collaborate on projects that leverage statistical inference/modelling to better understand a problem beyond the usage of a ML solution that
   does the predictive modelling part.
 * You can reach out to me at eufe.f.p@gmail.com
 
